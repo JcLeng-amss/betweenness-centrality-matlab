@@ -7,4 +7,5 @@ Brandes U . A Faster Algorithm for Betweenness Centrality[J]. Journal of Mathema
 
 # usage
 input: a adjacency matrix;
+
 output: the betweenness centrality score.
